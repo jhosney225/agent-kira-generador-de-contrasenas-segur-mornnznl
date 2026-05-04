@@ -1,0 +1,6 @@
+{
+  "name": "agent-kira-generador-de-contrasenas-segur-mornnznl",
+  "version": "1.0.0",
+  "description": "Proyecto de Kira [Gen16]: generador de contrasenas seguras con medidor de entropia",
+  "main": "index.js"
+}
